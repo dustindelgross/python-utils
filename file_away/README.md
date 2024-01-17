@@ -1,3 +1,9 @@
+# Overview
+
+This is a utility that adds support for the MacOS "New folder with selection" functionality to Windows.
+
+# Usage
+
 **Caution**: This script requires you to edit the Windows Registry. Editing the Windows Registry can be risky. It's important to follow these steps carefully.
 
 At a high level, all we're doing here is adding a button in the context menu, and assigning a command to run our script whenever that option is pressed.
